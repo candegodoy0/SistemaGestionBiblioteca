@@ -2,14 +2,14 @@
 
 Proyecto desarrollado en Java utilizando **Swing**, orientado a la gestión integral de una biblioteca. Implementa una arquitectura modular basada en el patrón **MVC (Modelo-Vista-Controlador)**, con persistencia de datos mediante archivos **TXT y XML**, y una interfaz gráfica amigable para el usuario.
 
-## 🧩 Características principales
+## Características principales
 
 - Registro y administración de **libros, usuarios y préstamos**
 - Gestión de **devoluciones**, **multas** y **deudas**
 - Validaciones de entrada, control de errores y navegación entre vistas con **CardLayout**
 - Interfaz gráfica construida con **formularios avanzados**, `JComboBox`, `JList`, diálogos y componentes dinámicos
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Java**
 - **Java Swing** para interfaz gráfica
@@ -19,7 +19,7 @@ Proyecto desarrollado en Java utilizando **Swing**, orientado a la gestión inte
 - Uso de **colecciones dinámicas** (`ArrayList`, `HashMap`, etc.)
 - Programación orientada a objetos (POO) y buenas prácticas de desarrollo
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 src/
 ├── modelo/
@@ -28,12 +28,12 @@ src/
 └── Main.java
 
 
-## 🎓 Contexto académico
+## Contexto académico
 
 Este proyecto fue desarrollado como parte de la **Tecnicatura en Programación de Sistemas**, con el objetivo de aplicar conceptos de programación orientada a objetos, diseño de interfaces, manejo de archivos y arquitectura modular.
 
 
-## 📐 Diseño y Diagramas
+## Diseño y Diagramas
 
 - [Diagrama de clases.](https://drive.google.com/file/d/1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna/view?usp=sharing)
 - [Matriz CLAE.](https://drive.google.com/file/d/1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq/view?usp=sharing)
